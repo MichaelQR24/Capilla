@@ -12,6 +12,7 @@ import Location from './components/Location';
 import Navbar from './components/Navbar';
 import News from './components/News';
 import Sacraments from './components/Sacraments';
+import OurPastor from './components/OurPastor';
 import Schedule from './components/Schedule';
 import DailyGospel from './components/DailyGospel';
 import Donations from './components/Donations';
@@ -26,6 +27,7 @@ export default function App() {
         <Hero />
         <DailyGospel />
         <About />
+        <OurPastor />
         <Schedule />
         <Activities />
         <Events />

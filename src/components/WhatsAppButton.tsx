@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react';
 
 export default function WhatsAppButton() {
   const phoneNumber = "51987654321"; // Replace with real chapel phone
-  const defaultMessage = "Hola, me gustaría recibir más información sobre la Capilla San Gabriel Arcángel.";
+  const defaultMessage = "Hola, me gustaría recibir más información sobre la Parroquia la Buena Nueva.";
   const url = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(defaultMessage)}`;
 
   return (

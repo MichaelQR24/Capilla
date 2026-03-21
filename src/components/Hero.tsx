@@ -6,10 +6,9 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://picsum.photos/seed/chapel-sunset/1920/1080?blur=2"
-          alt="Capilla San Gabriel Arcángel at sunset"
+          src="/parroquia.jpg"
+          alt="Parroquia la Buena Nueva - San Juan de Lurigancho"
           className="w-full h-full object-cover"
-          referrerPolicy="no-referrer"
         />
         <div className="absolute inset-0 bg-black/40 mix-blend-multiply"></div>
         <div className="absolute inset-0 bg-gradient-to-t from-chapel-beige via-transparent to-transparent"></div>
@@ -23,7 +22,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.2 }}
         >
           <h1 className="text-5xl md:text-7xl font-serif text-white mb-6 drop-shadow-lg">
-            Capilla San Gabriel Arcángel
+            Parroquia la Buena Nueva
           </h1>
         </motion.div>
         
@@ -33,7 +32,7 @@ export default function Hero() {
           transition={{ duration: 1, delay: 0.4 }}
         >
           <p className="text-xl md:text-2xl text-white/90 font-light mb-10 drop-shadow-md">
-            Un lugar de fe, comunidad y esperanza en Miraflores
+            Un lugar de fe, comunidad y esperanza en San Juan de Lurigancho
           </p>
         </motion.div>
 

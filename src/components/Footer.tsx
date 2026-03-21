@@ -9,15 +9,15 @@ export default function Footer() {
           {/* Brand */}
           <div className="space-y-6">
             <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-chapel-gold flex items-center justify-center text-white font-serif font-bold text-2xl">
-                G
+              <div className="w-10 h-10 rounded-full bg-chapel-gold flex items-center justify-center text-white font-serif font-bold text-xl">
+                B
               </div>
-              <span className="font-serif font-bold text-2xl">
-                San Gabriel Arcángel
+              <span className="font-serif font-bold text-xl leading-tight">
+                Parroquia la<br/>Buena Nueva
               </span>
             </div>
             <p className="text-gray-400 leading-relaxed text-sm max-w-xs">
-              Un lugar de fe, comunidad y esperanza en el corazón de Miraflores, Lima.
+              Un lugar de fe, comunidad y esperanza en San Juan de Lurigancho, Lima.
             </p>
             <div className="flex gap-4 pt-2">
               <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-chapel-gold transition-colors">
@@ -66,7 +66,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-16 pt-8 border-t border-white/10 text-center text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} Capilla San Gabriel Arcángel. Todos los derechos reservados.</p>
+          <p>&copy; {new Date().getFullYear()} Parroquia la Buena Nueva. Todos los derechos reservados.</p>
         </div>
       </div>
       

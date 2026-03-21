@@ -46,7 +46,7 @@ export default function About() {
 
             <div className="space-y-6 text-chapel-muted text-lg leading-relaxed">
               <p>
-                La Capilla San Gabriel Arcángel ha sido un faro de luz y esperanza en el corazón de Miraflores durante décadas. Fundada con el propósito de brindar un espacio de recogimiento y oración, nuestra capilla acoge a todos aquellos que buscan un encuentro personal con Dios.
+                La Parroquia la Buena Nueva ha sido un faro de luz y esperanza en el corazón de San Juan de Lurigancho durante décadas. Fundada con el propósito de brindar un espacio de recogimiento y oración, nuestra parroquia acoge a todos aquellos que buscan un encuentro personal con Dios.
               </p>
               <p>
                 Nuestra misión es vivir y compartir el Evangelio, fomentando una comunidad unida en el amor, la fe y el servicio al prójimo. Valoramos la acogida, la solidaridad y el crecimiento espiritual de cada persona que cruza nuestras puertas.
